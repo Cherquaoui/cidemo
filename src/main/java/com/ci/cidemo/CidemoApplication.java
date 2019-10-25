@@ -9,6 +9,7 @@ public class CidemoApplication {
     public static void main(String[] args) {
 
         System.out.println("hello maven!");
+        System.out.println("how are you?");
         SpringApplication.run(CidemoApplication.class, args);
     }
 
